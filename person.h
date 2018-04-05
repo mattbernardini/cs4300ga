@@ -19,6 +19,7 @@ public:
   Person& operator= (Person * lhs);
   bool operator== (Person * lhs);
   int getFitness();
+  void mutate();
 };
 }
 

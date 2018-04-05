@@ -34,4 +34,13 @@ int Person::getFitness()
         rt += this->bitString[i];
     return rt;
 }
+void Person::mutate()
+{
+#pragma omp parallel for
+	for (size_t i = 0; i < this->stringSize; i++)
+	{
+		if (rand() % this->stringSize == 0)
+			this->bitString[i] = !this->bitString[i];
+	}
+}
 }
