@@ -1,3 +1,5 @@
+#include "base_logger.h"
+
 #ifndef PERSON_H
 #define PERSON_H
 
@@ -8,12 +10,13 @@ class Person
 {
     friend class GaDriver;
 private:
+    BaseLogger * mutation;
     int * bitString;
     int id;
     int stringSize;
     void generateBitString();
 public:
-  Person(int stringSize);
+  Person(int stringSize, BaseLogger * mutation);
   Person(Person * p);
   ~Person();
   Person& operator= (Person * lhs);
