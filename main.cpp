@@ -21,6 +21,7 @@ int main (int argc, char ** argv)
 				popSize, stringSize);
 		m->writeToLogFile(INFO, "Generating next population with size %i, string size %i",
 				popSize, stringSize);
+#pragma omp parallel for
 		for (int i = 0; i < 5; i++)
 		{
 			GaDriver * ga = new GaDriver(popSize, stringSize, m, population, mutation);
