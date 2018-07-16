@@ -1,0 +1,579 @@
+07/16/18 13:31:53. 324622 [13407] Generating next population with size 10, string size 10
+07/16/18 13:31:53. 325752 [13407] Generation 0
+
+07/16/18 13:31:53. 326100 [13407] Average fitness: 5.500000e+00
+Max fitness: 7
+Low fitness: 3
+
+07/16/18 13:31:53. 327796 [13407] Generation 1
+
+07/16/18 13:31:53. 328011 [13407] Average fitness: 6.500000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 329698 [13407] Generation 2
+
+07/16/18 13:31:53. 329877 [13407] Average fitness: 7.100000e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 331188 [13407] Found global optimum on itteration 0
+07/16/18 13:31:53. 331252 [13407] Generation 0
+
+07/16/18 13:31:53. 331425 [13407] Average fitness: 5.600000e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 332852 [13407] Generation 1
+
+07/16/18 13:31:53. 333001 [13407] Average fitness: 6.300000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 334312 [13407] Generation 2
+
+07/16/18 13:31:53. 334463 [13407] Average fitness: 7.000000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 335746 [13407] Generation 3
+
+07/16/18 13:31:53. 335895 [13407] Average fitness: 6.600000e+00
+Max fitness: 8
+Low fitness: 3
+
+07/16/18 13:31:53. 336924 [13407] Generation 4
+
+07/16/18 13:31:53. 337087 [13407] Average fitness: 7.000000e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 338242 [13407] Generation 5
+
+07/16/18 13:31:53. 338421 [13407] Average fitness: 7.100000e+00
+Max fitness: 8
+Low fitness: 6
+
+07/16/18 13:31:53. 339586 [13407] Generation 6
+
+07/16/18 13:31:53. 339760 [13407] Average fitness: 7.300000e+00
+Max fitness: 8
+Low fitness: 6
+
+07/16/18 13:31:53. 340811 [13407] Found global optimum on itteration 1
+07/16/18 13:31:53. 340870 [13407] Generation 0
+
+07/16/18 13:31:53. 341032 [13407] Average fitness: 5.600000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 342175 [13407] Generation 1
+
+07/16/18 13:31:53. 342359 [13407] Average fitness: 5.700000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 343422 [13407] Generation 2
+
+07/16/18 13:31:53. 343563 [13407] Average fitness: 6.800000e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 344527 [13407] Generation 3
+
+07/16/18 13:31:53. 344696 [13407] Average fitness: 7.300000e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 345677 [13407] Generation 4
+
+07/16/18 13:31:53. 345818 [13407] Average fitness: 6.900000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 346799 [13407] Generation 5
+
+07/16/18 13:31:53. 347059 [13407] Average fitness: 7.300000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 348265 [13407] Generation 0
+
+07/16/18 13:31:53. 348447 [13407] Average fitness: 4.900000e+00
+Max fitness: 8
+Low fitness: 2
+
+07/16/18 13:31:53. 349696 [13407] Generation 1
+
+07/16/18 13:31:53. 349956 [13407] Average fitness: 5.200000e+00
+Max fitness: 7
+Low fitness: 4
+
+07/16/18 13:31:53. 352080 [13407] Generation 2
+
+07/16/18 13:31:53. 352366 [13407] Average fitness: 5.600000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 353996 [13407] Generation 3
+
+07/16/18 13:31:53. 354435 [13407] Average fitness: 6.200000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 356310 [13407] Generation 4
+
+07/16/18 13:31:53. 356574 [13407] Average fitness: 7.000000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 358185 [13407] Generation 5
+
+07/16/18 13:31:53. 358427 [13407] Average fitness: 7.500000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 359854 [13407] Found global optimum on itteration 3
+07/16/18 13:31:53. 359931 [13407] Generation 0
+
+07/16/18 13:31:53. 360149 [13407] Average fitness: 5.100000e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 361200 [13407] Generation 1
+
+07/16/18 13:31:53. 361343 [13407] Average fitness: 6.200000e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 362353 [13407] Generation 2
+
+07/16/18 13:31:53. 362511 [13407] Average fitness: 6.800000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 363994 [13407] Generation 3
+
+07/16/18 13:31:53. 364157 [13407] Average fitness: 6.500000e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 365233 [13407] Generation 4
+
+07/16/18 13:31:53. 365433 [13407] Average fitness: 6.400000e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 366748 [13407] Generation 5
+
+07/16/18 13:31:53. 366907 [13407] Average fitness: 7.300000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 367875 [13407] Found global optimum on itteration 4
+07/16/18 13:31:53. 367933 [13407] Increasing population size from 10 to 20
+07/16/18 13:31:53. 367989 [13407] Generating next population with size 20, string size 10
+07/16/18 13:31:53. 368055 [13407] Generation 0
+
+07/16/18 13:31:53. 368236 [13407] Average fitness: 5.050000e+00
+Max fitness: 8
+Low fitness: 2
+
+07/16/18 13:31:53. 370038 [13407] Generation 1
+
+07/16/18 13:31:53. 370183 [13407] Average fitness: 5.650000e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 372546 [13407] Found global optimum on itteration 0
+07/16/18 13:31:53. 372605 [13407] Found global optimum on itteration 1
+07/16/18 13:31:53. 372659 [13407] Generation 0
+
+07/16/18 13:31:53. 372875 [13407] Average fitness: 4.700000e+00
+Max fitness: 7
+Low fitness: 1
+
+07/16/18 13:31:53. 375218 [13407] Generation 1
+
+07/16/18 13:31:53. 375362 [13407] Average fitness: 5.800000e+00
+Max fitness: 9
+Low fitness: 2
+
+07/16/18 13:31:53. 377244 [13407] Found global optimum on itteration 2
+07/16/18 13:31:53. 377298 [13407] Generation 0
+
+07/16/18 13:31:53. 377442 [13407] Average fitness: 5.300000e+00
+Max fitness: 8
+Low fitness: 3
+
+07/16/18 13:31:53. 379321 [13407] Generation 1
+
+07/16/18 13:31:53. 379466 [13407] Average fitness: 6.650000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 381012 [13407] Generation 2
+
+07/16/18 13:31:53. 381155 [13407] Average fitness: 7.300000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 383729 [13407] Generation 3
+
+07/16/18 13:31:53. 383959 [13407] Average fitness: 7.800000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 388273 [13407] Generation 4
+
+07/16/18 13:31:53. 388518 [13407] Average fitness: 7.650000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 391094 [13407] Found global optimum on itteration 3
+07/16/18 13:31:53. 391169 [13407] Generation 0
+
+07/16/18 13:31:53. 391357 [13407] Average fitness: 5.400000e+00
+Max fitness: 8
+Low fitness: 3
+
+07/16/18 13:31:53. 393716 [13407] Generation 1
+
+07/16/18 13:31:53. 393867 [13407] Average fitness: 6.350000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 395626 [13407] Generation 2
+
+07/16/18 13:31:53. 395774 [13407] Average fitness: 6.750000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 397767 [13407] Generation 3
+
+07/16/18 13:31:53. 397937 [13407] Average fitness: 7.150000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 401253 [13407] Found global optimum on itteration 4
+07/16/18 13:31:53. 401324 [13407] Succeeded last time, Increasing population size from 20 to 15
+07/16/18 13:31:53. 401395 [13407] Generating next population with size 15, string size 10
+07/16/18 13:31:53. 401462 [13407] Generation 0
+
+07/16/18 13:31:53. 401698 [13407] Average fitness: 4.533333e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 403853 [13407] Generation 1
+
+07/16/18 13:31:53. 404161 [13407] Average fitness: 5.187500e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 406900 [13407] Generation 2
+
+07/16/18 13:31:53. 407070 [13407] Average fitness: 6.000000e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 408700 [13407] Generation 3
+
+07/16/18 13:31:53. 408845 [13407] Average fitness: 6.250000e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 410355 [13407] Generation 4
+
+07/16/18 13:31:53. 410518 [13407] Average fitness: 6.937500e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 412534 [13407] Generation 5
+
+07/16/18 13:31:53. 412705 [13407] Average fitness: 7.250000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 414614 [13407] Generation 6
+
+07/16/18 13:31:53. 414788 [13407] Average fitness: 7.187500e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 416205 [13407] Found global optimum on itteration 0
+07/16/18 13:31:53. 416264 [13407] Generation 0
+
+07/16/18 13:31:53. 416604 [13407] Average fitness: 5.000000e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 419636 [13407] Generation 1
+
+07/16/18 13:31:53. 420248 [13407] Average fitness: 5.812500e+00
+Max fitness: 7
+Low fitness: 4
+
+07/16/18 13:31:53. 425265 [13407] Found global optimum on itteration 1
+07/16/18 13:31:53. 425372 [13407] Generation 0
+
+07/16/18 13:31:53. 425607 [13407] Average fitness: 4.666667e+00
+Max fitness: 7
+Low fitness: 1
+
+07/16/18 13:31:53. 427346 [13407] Generation 1
+
+07/16/18 13:31:53. 427633 [13407] Average fitness: 4.687500e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 429123 [13407] Generation 2
+
+07/16/18 13:31:53. 429459 [13407] Average fitness: 5.500000e+00
+Max fitness: 7
+Low fitness: 3
+
+07/16/18 13:31:53. 432128 [13407] Found global optimum on itteration 2
+07/16/18 13:31:53. 432193 [13407] Generation 0
+
+07/16/18 13:31:53. 432375 [13407] Average fitness: 5.266667e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 434489 [13407] Generation 1
+
+07/16/18 13:31:53. 434655 [13407] Average fitness: 5.875000e+00
+Max fitness: 7
+Low fitness: 4
+
+07/16/18 13:31:53. 436151 [13407] Generation 2
+
+07/16/18 13:31:53. 436304 [13407] Average fitness: 6.500000e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 437868 [13407] Generation 3
+
+07/16/18 13:31:53. 438018 [13407] Average fitness: 6.937500e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 439451 [13407] Generation 4
+
+07/16/18 13:31:53. 439597 [13407] Average fitness: 7.312500e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 441020 [13407] Generation 5
+
+07/16/18 13:31:53. 441165 [13407] Average fitness: 7.875000e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 442879 [13407] Found global optimum on itteration 3
+07/16/18 13:31:53. 442938 [13407] Generation 0
+
+07/16/18 13:31:53. 443103 [13407] Average fitness: 4.600000e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 444533 [13407] Generation 1
+
+07/16/18 13:31:53. 444675 [13407] Average fitness: 5.500000e+00
+Max fitness: 8
+Low fitness: 2
+
+07/16/18 13:31:53. 446183 [13407] Generation 2
+
+07/16/18 13:31:53. 446358 [13407] Average fitness: 7.062500e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 447921 [13407] Generation 3
+
+07/16/18 13:31:53. 448070 [13407] Average fitness: 7.562500e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 449749 [13407] Found global optimum on itteration 4
+07/16/18 13:31:53. 449801 [13407] Succeeded last time, Increasing population size from 15 to 12
+07/16/18 13:31:53. 449850 [13407] Generating next population with size 12, string size 10
+07/16/18 13:31:53. 449907 [13407] Generation 0
+
+07/16/18 13:31:53. 450072 [13407] Average fitness: 5.000000e+00
+Max fitness: 7
+Low fitness: 3
+
+07/16/18 13:31:53. 451857 [13407] Generation 1
+
+07/16/18 13:31:53. 452191 [13407] Average fitness: 4.833333e+00
+Max fitness: 7
+Low fitness: 3
+
+07/16/18 13:31:53. 454159 [13407] Generation 2
+
+07/16/18 13:31:53. 454460 [13407] Average fitness: 5.583333e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 456569 [13407] Generation 3
+
+07/16/18 13:31:53. 456735 [13407] Average fitness: 6.083333e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 457736 [13407] Generation 4
+
+07/16/18 13:31:53. 457901 [13407] Average fitness: 6.500000e+00
+Max fitness: 8
+Low fitness: 3
+
+07/16/18 13:31:53. 459368 [13407] Generation 5
+
+07/16/18 13:31:53. 459518 [13407] Average fitness: 6.833333e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 460984 [13407] Generation 6
+
+07/16/18 13:31:53. 461129 [13407] Average fitness: 6.916667e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 462247 [13407] Generation 7
+
+07/16/18 13:31:53. 462391 [13407] Average fitness: 7.416667e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 463833 [13407] Generation 8
+
+07/16/18 13:31:53. 463980 [13407] Average fitness: 6.833333e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 465377 [13407] Generation 9
+
+07/16/18 13:31:53. 465521 [13407] Average fitness: 6.750000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 468318 [13407] Generation 0
+
+07/16/18 13:31:53. 468641 [13407] Average fitness: 4.583333e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 470900 [13407] Generation 1
+
+07/16/18 13:31:53. 471228 [13407] Average fitness: 5.750000e+00
+Max fitness: 7
+Low fitness: 3
+
+07/16/18 13:31:53. 473276 [13407] Generation 2
+
+07/16/18 13:31:53. 473470 [13407] Average fitness: 6.333333e+00
+Max fitness: 8
+Low fitness: 4
+
+07/16/18 13:31:53. 474912 [13407] Generation 3
+
+07/16/18 13:31:53. 475075 [13407] Average fitness: 6.250000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 476449 [13407] Found global optimum on itteration 1
+07/16/18 13:31:53. 476512 [13407] Generation 0
+
+07/16/18 13:31:53. 476668 [13407] Average fitness: 4.833333e+00
+Max fitness: 8
+Low fitness: 2
+
+07/16/18 13:31:53. 478136 [13407] Generation 1
+
+07/16/18 13:31:53. 478336 [13407] Average fitness: 7.083333e+00
+Max fitness: 8
+Low fitness: 5
+
+07/16/18 13:31:53. 479725 [13407] Generation 2
+
+07/16/18 13:31:53. 479928 [13407] Average fitness: 7.333333e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 482684 [13407] Generation 3
+
+07/16/18 13:31:53. 482848 [13407] Average fitness: 6.916667e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 484325 [13407] Generation 4
+
+07/16/18 13:31:53. 484493 [13407] Average fitness: 7.250000e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 486163 [13407] Generation 5
+
+07/16/18 13:31:53. 486367 [13407] Average fitness: 7.750000e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 488072 [13407] Generation 6
+
+07/16/18 13:31:53. 488251 [13407] Average fitness: 7.583333e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 489500 [13407] Found global optimum on itteration 2
+07/16/18 13:31:53. 489557 [13407] Generation 0
+
+07/16/18 13:31:53. 489703 [13407] Average fitness: 4.666667e+00
+Max fitness: 8
+Low fitness: 1
+
+07/16/18 13:31:53. 490952 [13407] Generation 1
+
+07/16/18 13:31:53. 491093 [13407] Average fitness: 5.583333e+00
+Max fitness: 7
+Low fitness: 2
+
+07/16/18 13:31:53. 492148 [13407] Generation 2
+
+07/16/18 13:31:53. 492288 [13407] Average fitness: 6.666667e+00
+Max fitness: 9
+Low fitness: 5
+
+07/16/18 13:31:53. 493319 [13407] Generation 3
+
+07/16/18 13:31:53. 493523 [13407] Average fitness: 7.166667e+00
+Max fitness: 9
+Low fitness: 3
+
+07/16/18 13:31:53. 494585 [13407] Generation 4
+
+07/16/18 13:31:53. 494731 [13407] Average fitness: 8.083333e+00
+Max fitness: 9
+Low fitness: 6
+
+07/16/18 13:31:53. 495945 [13407] Found global optimum on itteration 3
+07/16/18 13:31:53. 495997 [13407] Generation 0
+
+07/16/18 13:31:53. 496141 [13407] Average fitness: 4.500000e+00
+Max fitness: 8
+Low fitness: 1
+
+07/16/18 13:31:53. 497069 [13407] Generation 1
+
+07/16/18 13:31:53. 497210 [13407] Average fitness: 6.000000e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 498316 [13407] Generation 2
+
+07/16/18 13:31:53. 498457 [13407] Average fitness: 6.583333e+00
+Max fitness: 9
+Low fitness: 4
+
+07/16/18 13:31:53. 499571 [13407] Found global optimum on itteration 4
+07/16/18 13:31:53. 499622 [13407] Increasing population size from 12 to 12
+07/16/18 13:31:53. 499669 [13407] Exiting after finding population size 12 for string size 10
